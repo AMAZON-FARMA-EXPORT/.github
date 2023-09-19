@@ -7,7 +7,7 @@
   <body>
     <tr>
       <td><img src="https://m.media-amazon.com/images/I/51IVHmFFGiL._AC_SY879_.jpg"></td>
-      <td><strong>Brand Farma Export</strong>/strong></td>
+      <td><strong>Brand Farma Export</strong></td>
     </tr>
   </body>
 </table>
