@@ -1,3 +1,3 @@
-# Programma Amazon Selle Github
+# Programma Amazon Seller Github
 <br>
 
